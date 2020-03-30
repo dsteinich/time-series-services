@@ -29,7 +29,6 @@
                     "type": "application/json",
                     "title": "Arkansas Natural Resources Commission Groundwater Network"
                 }
-
             ],
             "properties": {
                 "agency": null,
